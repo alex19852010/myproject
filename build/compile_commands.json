@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/User/myproject/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\myproject.dir\\main.cpp.obj -c C:\\Users\\User\\myproject\\main.cpp",
+  "file": "C:/Users/User/myproject/main.cpp",
+  "output": "CMakeFiles/myproject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/myproject/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\myproject.dir\\my-math.cpp.obj -c C:\\Users\\User\\myproject\\my-math.cpp",
+  "file": "C:/Users/User/myproject/my-math.cpp",
+  "output": "CMakeFiles/myproject.dir/my-math.cpp.obj"
+}
+]
